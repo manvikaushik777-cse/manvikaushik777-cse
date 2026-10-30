@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**manvikaushik777-cse/manvikaushik777-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Manvi Kaushik
+A BTech AI & ML Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a first-year engineering student interested in:
+- Artificial Intelligence and Machine Learning
+- Python Development
+- Data Structures and Algorithms
+- Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+- Languages: Python, C++ (Learning)
+- Tools: Git, GitHub, VS Code
+- Frameworks: Streamlit
+
+# My Projects
+- GramCare AI – AI-powered healthcare assistance prototype.
+- Campus Guard AI – Campus safety-focused project.
+
+ 🎯 Currently Learning
+- Python
+- Data Structures and Algorithms
+- Machine Learning
+- Git and GitHub
+
+#📫 Connect with me
+- LinkedIn:
