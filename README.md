@@ -14,7 +14,6 @@ I'm a first-year engineering student interested in:
 - Frameworks: Streamlit
 
 # My Projects
-- GramCare AI – AI-powered healthcare assistance prototype.
 - Campus Guard AI – Campus safety-focused project.
 
  🎯 Currently Learning
@@ -23,5 +22,4 @@ I'm a first-year engineering student interested in:
 - Machine Learning
 - Git and GitHub
 
-#📫 Connect with me
-- LinkedIn:
+
